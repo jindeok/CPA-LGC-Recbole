@@ -1,2 +1,21 @@
-# CPA-LGC-Recbole-
-Recbole implementation of our paper "Criteria-Preference Aware Light Graph Convolution Twards Accurate Multi-Criteria Recommendation"
+# CPA-LGC
+Source code for the paper "Criteria Tell you More than Ratings:
+Criteria Preference-Aware Light Graph Convolution
+Towards Accurate Multi-Criteria Recommendation"
+
+Recbole (https://recbole.io/index.html) implementation for fair evaluation settings.
+
+# Dependancy
+
+- numpy
+- pands
+- torch
+- recbole (type: conda install -c aibox recbole)
+- networkx
+
+
+# Dataset Descriptions
+-TA5: TripAdvisor
+-YM5: Yahoo!Moive
+-RB5: RateBeer
+-YP5: Yelp-2022
