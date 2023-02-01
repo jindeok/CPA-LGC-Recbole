@@ -15,7 +15,4 @@ Recbole (https://recbole.io/index.html) implementation for fair evaluation setti
 
 
 # Dataset Descriptions
--TA5: TripAdvisor
--YM5: Yahoo!Moive
--RB5: RateBeer
--YP5: Yelp-2022
+-TA5: TripAdvisor, YM5: Yahoo!Moive, RB5: RateBeer, YP5: Yelp-2022.
