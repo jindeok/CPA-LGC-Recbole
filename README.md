@@ -3,7 +3,7 @@ Source code for the paper "Criteria Tell you More than Ratings:
 Criteria Preference-Aware Light Graph Convolution
 Towards Accurate Multi-Criteria Recommendation"
 
-Recbole (https://recbole.io/index.html) implementation for fair evaluation settings.
+Recbole (https://recbole.io/index.html) implementation for fair evaluation settings with GNN benchmarks.
 
 # Dependancy
 
