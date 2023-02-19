@@ -1,7 +1,5 @@
 # CPA-LGC
-Source code for the paper "Criteria Tell you More than Ratings:
-Criteria Preference-Aware Light Graph Convolution
-Towards Accurate Multi-Criteria Recommendation" (**Submitted for the possible proceeding**)
+Source code for the paper "N/A (double-blind peer review)" (**Submitted for the possible proceeding**)
 
 CPA-LGC Recbole (https://recbole.io/index.html) implementation for fair evaluation settings with GNN benchmarks.
 
