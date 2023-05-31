@@ -9,7 +9,7 @@ Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discove
 - numpy
 - pands
 - torch
-- recbole (type: conda install -c aibox recbole)
+- recbole (install via: conda install -c aibox recbole)
 - networkx
 
 
