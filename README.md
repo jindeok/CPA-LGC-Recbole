@@ -1,10 +1,10 @@
 # CPA-LGC
-Source code for the paper "N/A (double-blind peer review)" (**Submitted for the possible proceeding**)
+CPA-LGC Recbole (https://recbole.io/index.html) implementation for the paper   
+Jin-Duk Park et al., "Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation", KDD' 23
 
-CPA-LGC Recbole (https://recbole.io/index.html) implementation for fair evaluation settings with GNN benchmarks.
+
 
 # Dependancy
-
 - numpy
 - pands
 - torch
@@ -13,4 +13,8 @@ CPA-LGC Recbole (https://recbole.io/index.html) implementation for fair evaluati
 
 
 # Dataset Descriptions
+MC expansion graph datasets
 -TA5: TripAdvisor, YM5: Yahoo!Moive, RB5: RateBeer, YP5: Yelp-2022.
+
+# Contact
+For more information, contact: jindeok6@yonsei.ac.kr
