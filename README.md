@@ -15,7 +15,7 @@ Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discove
 
 
 # Dataset Descriptions
-MC expansion graph datasets
+MC expansion graph datasets   
 -TA5: TripAdvisor, YM5: Yahoo!Moive, RB5: RateBeer, YP5: Yelp-2022.
 
 # Contact
