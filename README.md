@@ -1,8 +1,8 @@
 # CPA-LGC
 CPA-LGC Recbole (https://recbole.io/index.html) implementation for the paper   
-**Jin-Duk Park et al.,   
+Jin-Duk Park et al.,   
 "Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation",   
-Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD '23**
+Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD '23
 
 
 
