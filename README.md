@@ -17,7 +17,7 @@ Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discove
 # Dataset Descriptions
 Original interaction datasets and MC expansion graph datasets    
 (Dataset.tr.inter: training dataset (MCEG),  Dataset.ts (val).inter: test (validation) dataset, Dataset.inter: original dataset)   
--TA5: TripAdvisor, YM5: Yahoo!Moive, RB5: RateBeer
-
+-TA5: TripAdvisor, YM5: Yahoo!Moive, RB5: RateBeer   
+(* Link for Yelp: https://github.com/RUCAIBox/RecSysDatasets/blob/master/conversion_tools/usage/Yelp.md)
 # Contact
 For more information, contact via: jindeok6@yonsei.ac.kr
