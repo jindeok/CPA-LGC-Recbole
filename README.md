@@ -1,8 +1,8 @@
 # CPA-LGC
 CPA-LGC Recbole (https://recbole.io/index.html) implementation for the paper   
-Jin-Duk Park et al.,   
+Jin-Duk Park, Siqing Li, Won-Yong Shin, and Xin Cao,
 "Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation",   
-Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD '23
+Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, **KDD '23**
 
 
 
@@ -17,7 +17,7 @@ Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discove
 # Dataset Descriptions
 Original interaction datasets and MC expansion graph datasets    
 (Dataset.tr.inter: training dataset (MCEG),  Dataset.ts (val).inter: test (validation) dataset, Dataset.inter: original dataset)   
--TA5: TripAdvisor, YM5: Yahoo!Moive, RB5: RateBeer   
-(* Link for Yelp: https://github.com/RUCAIBox/RecSysDatasets/blob/master/conversion_tools/usage/Yelp.md)
+-TA5: TripAdvisor, YM5: Yahoo!Moive, RB5: RateBeer, YP5: Yelp   
+ 
 # Contact
 For more information, contact via: jindeok6@yonsei.ac.kr
