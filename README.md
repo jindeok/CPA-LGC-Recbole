@@ -20,7 +20,7 @@ Original interaction datasets and MC expansion graph datasets
 -TA5: TripAdvisor, YM5: Yahoo!Moive, RB5: RateBeer, YP5: Yelp   
 
 # Custom dataset
-For custom dataset of any manipulation of dataset, 
+For custom dataset or any manipulation of dataset, 
 please refer to the preprocessing codes in Processing_example_YM.ipynb for Recbole implementation of CPA-LGC
 
 # Contact
