@@ -12,7 +12,6 @@ Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discove
 - recbole (install via: conda install -c aibox recbole) 0.2.0
 - networkx 3.1
 
-![Uploading image.png…]()
 
 
 # Dataset Descriptions
